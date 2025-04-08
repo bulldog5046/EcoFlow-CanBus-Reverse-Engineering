@@ -20,8 +20,9 @@ The connector pins are unnumbered so for the purpose of research i'll be referen
 | 6     | GND               |
 
 
-EcoFlow LFP Battery Port (Probably Delta Pro too?)
+
 ![alt text](images/EF-LFP-Battery-port-tight.png)
+EcoFlow LFP Battery Port (Probably Delta Pro too?)
 | Data Pin   | Function          |
 | ---   | --------          |
 | 1     | CAN-H             |
