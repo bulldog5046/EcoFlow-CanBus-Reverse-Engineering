@@ -41,7 +41,7 @@ EcoFlow BKW DELTA Pro Cable
 | 1     | 2 - CAN-H             |
 | 2     | 5 - CAN-L             |
 | 3     | NC                 |
-| 4     | 3 - ?                 | 
+| 4     | 3 & 6 - ? - Shorted                | 
 | 5     | 1 - Wake?                 |
 | 6     | 4 - Short to 1                 |
 | 7     | NC                 |
