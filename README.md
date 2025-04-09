@@ -31,3 +31,18 @@ EcoFlow LFP Battery Port (Probably Delta Pro too?)
 | 4     | ?                 | 
 | 5     | ?                 |
 | 6     | ?                 |
+
+
+EcoFlow BKW DELTA Pro Cable
+
+![](images/EcoFlow-BKW-DELTA-Pro-Cable-Tight.png)
+| Delta Pro   | PowerStream          |
+| ---   | --------          |
+| 1     | 2 - CAN-H             |
+| 2     | 5 - CAN-L             |
+| 3     | NC                 |
+| 4     | 3 - ?                 | 
+| 5     | 1 - Wake?                 |
+| 6     | 4 - Short to 1                 |
+| 7     | NC                 |
+| 8     | NC                 |
