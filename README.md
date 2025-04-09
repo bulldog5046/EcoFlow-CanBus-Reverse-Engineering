@@ -46,3 +46,5 @@ EcoFlow BKW DELTA Pro Cable
 | 6     | 4 - Short to 1                 |
 | 7     | NC                 |
 | 8     | NC                 |
+
+Connecting the PowerStream to the LFP battery required the firmware to be updated from version 1.1.1.141 to 1.1.3.77 which seems to have changed the messaging structure.
