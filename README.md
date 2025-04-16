@@ -32,6 +32,23 @@ EcoFlow LFP Battery Port (Probably Delta Pro too?)
 | 5     | ?                 |
 | 6     | ?                 |
 
+
+EcoFlow BKW DELTA Pro Cable
+
+![](images/EcoFlow-BKW-DELTA-Pro-Cable-Tight.png)
+| Delta Pro   | PowerStream          |
+| ---   | --------          |
+| 1     | 2 - CAN-H             |
+| 2     | 5 - CAN-L             |
+| 3     | NC                 |
+| 4     | 3 & 6 - ? - Shorted                | 
+| 5     | 1 - Wake?                 |
+| 6     | 4 - Short to 1                 |
+| 7     | NC                 |
+| 8     | NC                 |
+
+Connecting the PowerStream to the LFP battery required the firmware to be updated from version 1.1.1.141 to 1.1.3.77 which seems to have changed the messaging structure.
+
 ## CANBUS
 
 The golden message that will make the powerstream show that a battery is connected and enable the battery port to function.
