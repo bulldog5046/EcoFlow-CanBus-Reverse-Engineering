@@ -1,0 +1,2042 @@
+
+
+
+
+
+
+
+I (20673) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638003
+▒▒-K52536
+
+W (20693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+
+I (20723) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+
+
+
+E (20873) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:19693
+
+E (21323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:20143
+
+▒▒,K52f▒▒-K5253▒▒I (21683) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638004
+W (21693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (21703) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (21793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:20615
+
+I (21793) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (21963) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (22253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:21073
+
+▒▒-K5253▒▒W (22693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (22703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:21523
+
+I (22723) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638005
+I (22763) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (22983) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (23153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:21973
+
+!E (23603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:22423
+
+▒▒-5253&W (23693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (23713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (23733) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638006
+I (23783) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (23963) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (24053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:22873
+
+E (24503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:23323
+
+▒▒-K5253▒▒W (24693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+?I (24783) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638007
+I (24803) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (24953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:23773
+
+E (25403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:24223
+
+▒▒-K5253.W (25693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (25713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (25823) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (25823) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638008
+E (25853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:24673
+
+I (25973) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (25973) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (26303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:25123
+
+▒▒,K52f▒▒▒▒-K5253▒▒W (26693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (26793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:25615
+
+I (26853) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (26853) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638009
+E (27253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:26073
+
+▒▒- K5253▒▒W (27693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (27713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (27713) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:26534
+
+I (27873) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (27893) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638010
+W (27973) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (28173) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:26993
+
+E (28623) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:27443
+
+▒▒-!K5253~BW (28693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (28893) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (28893) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638011
+I (28983) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (29073) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:27894
+
+E (29523) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:28343
+
+▒▒-"K5253zFW (29693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (29713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (29913) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (29943) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638012
+W (29973) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (29993) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:28813
+
+I (30393) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (30393) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (30393) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 34.099998C
+I (30403) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+E (30443) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:29263
+
+▒▒-#K5253▒▒W (30693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (30893) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:29713
+
+I (30933) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (30993) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638013
+E (31343) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:30163
+
+▒▒,$K52f▒▒▒-%K5253▒▒W (31693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (31713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (31793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:30615
+
+I (31953) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (31973) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (31983) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (31983) EF-I: [mesh_idea_exec_fun:1172]******* mesh pair recover timecount ********
+E (31993) EF-E: [nvs_read_str_blob:70]nvs_get_str router_ssid
+
+I (32003) EF-I: [mesh_message_is_ready:1116]mesh_id_ret[-1] mesh_type_ret[-1] router_ssid_ret[-1] router_bssid_ret[-1] router_password_ret[0]
+I (32013) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638014
+E (32253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:31073
+
+▒▒-&K5253▒▒W (32693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (32703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:31523
+
+I (32973) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (33043) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638015
+E (33153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:31973
+
+E (33603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:32423
+
+▒▒-'K5253vJW (33693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (33713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (33993) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (33993) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (34053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:32873
+
+I (34053) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638016
+E (34503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:33323
+
+▒▒-(K5253b^W (34693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (34953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:33773
+
+I (34983) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (35013) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (35103) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638017
+E (35403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:34223
+
+▒▒-)K5253▒▒W (35693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (35713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (35853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:34673
+
+W (36003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (36043) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (36163) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638018
+E (36303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:35123
+
+▒▒,*K52fO▒▒-+K5253fZW (36693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (36793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:35615
+
+I (37063) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (37183) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638019
+E (37253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:36073
+
+▒▒-,K5253▒▒W (37693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (37713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (37713) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:36534
+
+I (37723) EF-I: [update_ems_energy_history_data:635]start time sec[1748637984]
+I (37723) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:0
+I (37743) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:0
+I (37753) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:0
+I (37763) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:0
+I (37773) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:0
+I (37793) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:0
+I (37803) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:0
+I (37813) EF-I: [update_ems_energy_history_data:650]cumulative_energy:5460  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:2457
+I (37833) EF-I: [update_ems_energy_history_data:650]cumulative_energy:5460  energy_cumu_times:80  interval_time:36 tm_hour:20 total_energy:2457
+W (37843) EF-W: [cumulative_ems_task:823]realtime_energy_data
+I (37973) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (38003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (38083) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (38173) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:36993
+
+I (38203) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638020
+E (38623) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:37443
+
+▒▒--K5253nRW (38693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (39073) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:37894
+
+I (39103) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (39253) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638021
+E (39523) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:38343
+
+▒▒-.K5253jVW (39693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (39713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (39993) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:38813
+
+W (40003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (40123) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (40313) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638022
+E (40443) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:39263
+
+▒▒-/K5253▒▒W (40693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (40893) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:39713
+
+I (40983) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (41143) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (41333) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638023
+E (41343) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:40163
+
+▒▒,0K52f▒▒▒-1K5253▒▒W (41693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (41713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (41793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:40615
+
+W (42003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (42163) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (42253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:41073
+
+I (42363) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638024
+▒▒-2K5253▒▒W (42693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (42703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:41523
+
+E (43153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:41973
+
+I (43183) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (43393) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638025
+E (43603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:42423
+
+▒▒-3K5253FzW (43693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (43713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (43983) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (44003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (44053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:42873
+
+I (44203) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (44433) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638026
+E (44503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:43323
+
+▒▒-4K5253▒▒W (44693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (44953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:43773
+
+I (45223) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (45403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:44223
+
+I (45423) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (45423) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (45423) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 35.099998C
+I (45433) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+I (45463) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638027
+▒▒-5K5253NrW (45693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (45713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (45853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:44673
+
+W (46003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (46253) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (46303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:45123
+
+I (46473) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638028
+▒▒,6K52f▒▒▒-7K5253▒▒W (46693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (46793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:45615
+
+I (46983) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (47253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:46073
+
+I (47273) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (47523) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638029
+▒▒-8K5253▒▒W (47693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (47713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (47713) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:46534
+
+W (48003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (48173) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:46993
+
+I (48293) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (48563) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638030
+E (48623) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:47443
+
+▒▒-9K5253^bW (48693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (49073) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:47894
+
+I (49313) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (49523) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:48343
+
+I (49583) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638031
+▒▒-:K5253ZfW (49693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (49713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (49983) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (49993) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:48813
+
+W (50003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (50333) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (50443) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:49263
+
+I (50623) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638032
+▒▒-;K5253▒▒W (50693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (50893) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:49713
+
+E (51343) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:50163
+
+I (51353) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (51643) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638034
+▒▒,<K52f▒▒▒-=K5253▒▒W (51693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (51713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (51793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:50615
+
+W (52003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (52253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:51073
+
+I (52373) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (52653) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638035
+▒▒->K5253▒▒W (52693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (52703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:51523
+
+I (52983) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (53153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:51973
+
+I (53393) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (53603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:52423
+
+I (53653) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638036
+▒▒-?K5253VjW (53693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (53713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (54003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (54053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:52873
+
+I (54413) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (54503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:53323
+
+▒▒-@K5253I (54683) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638037
+W (54693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (54953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:53773
+
+E (55403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:54223
+
+I (55433) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-AK5253▒▒W (55693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (55713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (55713) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638038
+E (55853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:54673
+
+I (55993) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (56003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (56303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:55123
+
+I (56463) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,BK52f.H▒▒-CK5253W (56693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (56793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:55615
+
+I (56793) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638039
+E (57253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:56073
+
+I (57483) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-DK5253▒▒W (57693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (57713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (57713) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:56534
+
+I (57843) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638040
+W (58003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (58173) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:56993
+
+I (58503) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (58623) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:57443
+
+W (58693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (58903) EF-I: [bsp_rtc_get_cnt:44]now time : 1748PuTTY638041
+I (58993) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (59073) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:57894
+
+E (59523) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:58343
+
+I (59523) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-FK5253
+                W (59693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (59713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (59943) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638042
+E (59993) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:58813
+
+W (60003) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (60443) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:59263
+
+I (60463) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (60463) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (60463) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 35.099998C
+I (60473) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+I (60543) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-GK5253▒▒W (60693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (60893) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:59713
+
+I (61003) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638043
+E (61343) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:60163
+
+I (61563) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,HK52f6P▒▒-IK5253W (61693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (61713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (61793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:60615
+
+W (61953) EF-W: [realtime_trans_energy_data_by_mqtt:256]dev energy data type[RealTime], seq[65535], type_count[9]
+W (61953) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[1]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (61973) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[2]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (61993) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[3]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (62023) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[4]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (62043) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[7]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (62063) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[8]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (62093) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[16]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (62113) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[17]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (62143) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[18]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+I (62183) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (62183) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (62193) EF-I: [mesh_idea_exec_fun:1172]******* mesh pair recover timecount ********
+E (62203) EF-E: [nvs_read_str_blob:70]nvs_get_str router_ssid
+
+I (62203) EF-I: [mesh_message_is_ready:1116]mesh_id_ret[-1] mesh_type_ret[-1] router_ssid_ret[-1] router_bssid_ret[-1] router_password_ret[0]
+I (62223) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638044
+E (62253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:61073
+
+I (62583) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-JK5253W (62693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (62703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:61523
+
+E (63153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:61973
+
+I (63273) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638045
+E (63603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:62423
+
+I (63603) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-KK5253▒▒W (63693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (63713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (64053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:62873
+
+W (64193) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (64303) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638046
+E (64503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:63323
+
+I (64623) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-LK5253W (64693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (64953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:63773
+
+I (65183) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (65333) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638047
+E (65403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:64223
+
+I (65643) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-MK5253▒▒W (65693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (65713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (65853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:64673
+
+W (66193) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (66303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:65123
+
+I (66363) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638048
+I (66673) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,NK52f>X▒▒-OK5253W (66693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (66793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:65615
+
+E (67253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:66073
+
+I (67403) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638049
+▒▒-PK5253▒▒W (67693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (67713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (67713) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:66534
+
+I (67723) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (68173) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:66993
+
+I (68193) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (68193) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (68423) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638050
+E (68623) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:67443
+
+▒▒-QK5253?=W (68693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (68713) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (69073) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:67894
+
+I (69463) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638051
+E (69523) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:68343
+
+▒▒-RK5253;9W (69693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (69713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (69733) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (69973) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:68793
+
+W (70203) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (70423) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:69243
+
+I (70473) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638052
+▒▒-SK5253▒▒W (70693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (70753) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (70873) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:69693
+
+I (71193) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (71323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:70143
+
+I (71513) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638053
+▒▒,TK52f翪▒-UK5253▒▒W (71693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (71713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (71793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:70615
+
+I (71793) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (72203) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (72253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:71073
+
+I (72523) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638054
+▒▒-VK5253▒▒W (72693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (72703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:71523
+
+I (72793) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (73153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:71973
+
+I (73533) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638055
+E (73603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:72423
+
+▒▒-WK525375W (73693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (73713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (73813) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (74053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:72873
+
+I (74203) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (74203) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (74503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:73323
+
+I (74553) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638056
+▒▒-XK5253#!W (74693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (74833) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (74953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:73773
+
+E (75403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:74223
+
+I (75493) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (75493) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (75493) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 35.099998C
+I (75503) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+I (75573) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638057
+▒▒-YK5253▒▒W (75693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (75713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (75853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:74673
+
+I (75853) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (76213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (76303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:75123
+
+I (76593) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638058
+▒▒,ZK52fh▒▒-[K5253'%W (76693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (76793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:75615
+
+I (76873) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (77193) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (77253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:76073
+
+I (77653) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638060
+▒▒-\K5253▒▒W (77693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (77703) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (77713) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:76534
+
+I (77903) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (78173) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:76993
+
+W (78213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (78623) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:77443
+
+I (78673) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638061
+▒▒-]K5253/-W (78693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (78923) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (79073) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:77894
+
+E (79523) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:78343
+
+▒▒-^K5253+)I (79683) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638062
+W (79693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (79713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (79943) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (79973) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:78793
+
+I (80203) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (80213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (80423) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:79243
+
+▒▒-_K5253▒▒W (80693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (80713) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638063
+E (80873) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:79693
+
+I (80963) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (81323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:80143
+
+▒▒,`K52fV0▒▒-aK525}W (81693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (81713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (81713) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638064
+E (81793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:80615
+
+I (81983) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (82213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (82253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:81073
+
+▒▒-bK5253{yW (82693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (82703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:81523
+
+I (82763) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638065
+I (83003) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (83153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:81973
+
+I (83193) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (83603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:82423
+
+▒▒-cK5253▒▒W (83693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (83713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (83783) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638066
+I (84023) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (84053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:82873
+
+W (84213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (84503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:83323
+
+▒▒-dK5253sqW (84693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (84823) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638067
+E (84953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:83773
+
+I (85043) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (85403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:84223
+
+▒▒-eK5253▒▒W (85693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (85713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (85853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:84673
+
+I (85853) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638068
+I (86063) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (86203) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (86213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (86303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:85123
+
+▒▒,fK52f^8▒▒-gK5253wuW (86693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (86793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:85615
+
+I (86903) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638069
+I (87083) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (87253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:86073
+
+▒▒-hK5253caW (87693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (87713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (87713) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:86534
+
+I (87923) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638070
+I (88113) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (88173) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:86993
+
+W (88213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (88623) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:87443
+
+▒▒-iK5253▒▒W (88693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (88973) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638071
+E (89073) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:87894
+
+I (89133) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (89193) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (89523) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:88343
+
+▒▒-jK5253▒▒W (89693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (89713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (89973) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:88793
+
+I (90013) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638072
+I (90153) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (90213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (90423) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:89243
+
+I (90533) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (90533) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (90533) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 36.099998C
+I (90543) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+▒▒-kK5253geW (90693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (90873) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:89693
+
+I (91063) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638073
+I (91173) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (91323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:90143
+
+▒▒,lK52fF ▒▒-mK5253omW (91693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (91713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (91793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:90615
+
+I (92123) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638074
+I (92193) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (92203) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (92213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (92233) EF-I: [mesh_idea_exec_fun:1172]******* mesh pair recover timecount ********
+E (92233) EF-E: [nvs_read_str_blob:70]nvs_get_str router_ssid
+
+I (92233) EF-I: [mesh_message_is_ready:1116]mesh_id_ret[-1] mesh_type_ret[-1] router_ssid_ret[-1] router_bssid_ret[-1] router_password_ret[0]
+E (92253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:91073
+
+▒▒-nK5253kiW (92693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (92703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:91523
+
+E (93153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:91973
+
+I (93193) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638075
+I (93213) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (93603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:92423
+
+▒▒-oK5253▒▒W (93693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (93713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (94053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:92873
+
+W (94213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (94213) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638076
+I (94233) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (94503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:93323
+
+▒▒-pK5253CAW (94693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (94953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:93773
+
+I (95193) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (95253) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (95253) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638077
+E (95403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:94223
+
+▒▒-qK5253▒▒W (95693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (95713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (95853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:94673
+
+W (96213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (96263) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638078
+I (96273) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (96303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:95123
+
+▒▒,rK52f▒▒-sK5253GEW (96693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (96793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:95615
+
+E (97253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:96073
+
+I (97293) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (97303) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638079
+▒▒-tK5253▒▒W (97693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (97713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (97713) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:96534
+
+I (97723) EF-I: [update_ems_energy_history_data:635]start time sec[1748638020]
+I (97723) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (97743) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (97753) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (97763) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (97773) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (97793) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (97803) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (97813) EF-I: [update_ems_energy_history_data:650]cumulative_energy:9240  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:6657
+I (97833) EF-I: [update_ems_energy_history_data:650]cumulative_energy:9240  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:6657
+W (97843) EF-W: [cumulative_ems_task:823]realtime_energy_data
+E (98173) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:96993
+
+I (98203) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (98213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (98323) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (98353) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638080
+E (98623) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:97443
+
+▒▒-uK5253OMW (98693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (99073) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:97894
+
+I (99343) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (99363) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638081
+E (99523) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:98343
+
+▒▒-vK5253KIW (99693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (99713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (99973) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:98793
+
+W (100213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (100363) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (100383) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638082
+E (100423) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:99243
+
+▒▒-wK5253▒▒W (100693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (100873) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:99693
+
+I (101193) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (101323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:100143
+
+I (101383) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (101393) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638083
+▒▒,xK52fv▒▒-yK5253_]W (101693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (101713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (101793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:100615
+
+W (102213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (102253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:101073
+
+I (102403) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (102423) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638084
+▒▒-zK5253[YW (102693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (102703) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:101523
+
+E (103153) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:101973
+
+I (103423) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (103423) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638085
+E (103603) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:102423
+
+▒▒-{K5253▒▒W (103693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (103713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (104053) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:102873
+
+I (104203) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (104213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (104443) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (104443) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638086
+E (104503) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:103323
+
+▒▒-|K5253SQW (104693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (104953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:103773
+
+E (105403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:104223
+
+I (105463) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (105473) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638087
+I (105563) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (105563) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (105563) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 36.099998C
+I (105573) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+▒▒-}K5253▒▒W (105693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (105713) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (105853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:104673
+
+W (106213) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (106303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:105123
+
+I (106483) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (106533) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638088
+▒▒,~K52f~▒▒K5253WUW (106693) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (106793) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:105615
+
+I (107193) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (107253) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:106073
+
+I (107503) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (107643) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638090
+▒▒-▒K5253@W (107753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (107773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (107773) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:106541
+
+E (108233) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:107000
+
+W (108273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (108533) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (108683) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:107450
+
+I (108683) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638091
+▒▒-▒K5253▒W (108753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (109133) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:107900
+
+I (109553) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (109583) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:108350
+
+I (109693) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638092
+▒▒-▒K5253▒W (109753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (109773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (110033) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:108800
+
+I (110253) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (110273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (110483) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:109250
+
+I (110573) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (110703) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638093
+▒▒-▒K5253DW (110753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (110933) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:109700
+
+E (111383) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:110150
+
+I (111593) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (111713) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638094
+▒▒,▒K52f%▒▒-▒K5253
+LW (111753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (111773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (111853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:110622
+
+W (112273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (112313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:111080
+
+I (112613) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K525HW (112753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (112753) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638095
+E (112763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:111530
+
+E (113213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:111980
+
+I (113263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (113633) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (113663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:112430
+
+▒▒-▒K5253▒W (113753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (113773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (113793) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638096
+E (114113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:112880
+
+W (114273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (114563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:113330
+
+I (114653) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253▒W (114753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (114843) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638097
+E (115013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:113780
+
+E (115463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:114230
+
+I (115673) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253\W (115753) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (115773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (115863) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638098
+E (115913) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:114680
+
+I (116253) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (116273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (116363) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:115130
+
+I (116693) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,▒K52f▒֪▒-▒K5253▒W (116763) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (116853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:115622
+
+I (116913) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638099
+E (117313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:116080
+
+I (117713) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253PI (117763) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (117773) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:116541
+
+W (117793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (117953) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638100
+E (118233) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:117000
+
+W (118273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (118683) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:117450
+
+I (118733) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253▒W (118793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (119003) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638101
+E (119133) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:117900
+
+I (119263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (119583) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:118350
+
+▒▒-▒K5253▒I (119763) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (119773) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (119793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (120023) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638102
+E (120033) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:118800
+
+W (120273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (120483) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:119250
+
+I (120603) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (120603) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (120603) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 36.099998C
+I (120613) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+▒▒-▒K5253TI (120783) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (120793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (120933) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:119700
+
+I (121043) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638103
+E (121383) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:120150
+
+▒▒,▒K52f1▒▒-▒K5253<|I (121773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (121793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (121853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:120622
+
+I (121853) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (122013) EF-W: [realtime_trans_energy_data_by_mqtt:256]dev energy data type[RealTime], seq[65535], type_count[9]
+W (122013) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[1]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (122033) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[2]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (122053) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[3]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (122083) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[4]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (122103) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[7]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (122123) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[8]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (122153) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[16]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (122173) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[17]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 1 <21> 0 <22> 0 <23> 0
+W (122203) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[18]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 1 <21> 0 <22> 0 <23> 0
+I (122223) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638104
+I (122253) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (122273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (122313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:121080
+
+I (122313) EF-I: [mesh_idea_exec_fun:1172]******* mesh pair recover timecount ********
+E (122313) EF-E: [nvs_read_str_blob:70]nvs_get_str router_ssid
+
+I (122323) EF-I: [mesh_message_is_ready:1116]mesh_id_ret[-1] mesh_type_ret[-1] router_ssid_ret[-1] router_bssid_ret[-1] router_password_ret[0]
+▒▒-▒K52538xE (122763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:121530
+
+W (122793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (122823) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (123213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:121980
+
+I (123263) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638105
+E (123663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:122430
+
+▒▒-▒K5253ŻI (123773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (123793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (123843) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (124113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:122880
+
+W (124273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (124273) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638106
+E (124563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:123330
+
+▒▒-▒K52530pW (124793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (124863) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (125013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:123780
+
+I (125263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (125293) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638107
+E (125463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:124230
+
+▒▒-▒K5253ͳI (125773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (125793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (125883) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (125913) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:124680
+
+W (126273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (126313) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638108
+E (126363) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:125130
+
+▒▒,▒K52f9▒▒-▒K52534tW (126793) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (126853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:125623
+
+I (126903) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (127313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:126080
+
+I (127313) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638109
+▒▒-▒K5253 `I (127773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (127783) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:126551
+
+W (127803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (127923) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (128243) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:127010
+
+I (128263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (128273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (128323) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638110
+E (128693) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:127460
+
+▒▒-▒K5253ݣW (128803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (128943) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (129143) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:127910
+
+I (129343) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638111
+E (129593) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:128360
+
+▒▒-▒K5253٧I (129773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (129803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (129973) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (130043) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:128810
+
+W (130273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (130353) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638112
+E (130493) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:129260
+
+▒▒-▒K5253$dW (130803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (130943) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:129710
+
+I (130993) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (131263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (131393) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:130160
+
+I (131393) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638113
+▒▒,▒K52f!PuTTY▒▒-▒K5253,lI (131773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (131803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (131863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:130632
+
+I (132013) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (132273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (132323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:131090
+
+I (132413) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638114
+▒▒-▒K5253(hE (132773) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:131540
+
+W (132803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (133033) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (133223) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:131990
+
+I (133443) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638115
+E (133673) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:132440
+
+▒▒-▒K5253իI (133773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (133803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (134053) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (134123) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:132890
+
+I (134273) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (134273) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (134463) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638116
+E (134573) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:133340
+
+▒▒-▒K5253▒▒W (134803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (135023) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:133790
+
+I (135073) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (135473) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:134240
+
+I (135523) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638117
+I (135633) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (135633) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (135633) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 36.099998C
+I (135643) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+▒▒-▒K5253|<I (135773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (135803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (135923) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:134690
+
+I (136093) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (136283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (136373) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:135140
+
+I (136543) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638118
+▒▒,▒K52f▒▒▒▒-▒K5253▒▒W (136803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (136863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:135632
+
+I (137113) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (137263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (137323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:136090
+
+I (137553) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638119
+▒▒-▒K5253p0I (137773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (137783) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:136551
+
+W (137803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (138133) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (138243) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:137010
+
+W (138283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (138593) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638120
+E (138693) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:137460
+
+▒▒-▒K5253▒▒W (138803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (139143) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:137910
+
+I (139153) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (139593) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:138360
+
+I (139613) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638121
+▒▒-▒K5253▒▒I (139773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (139803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (140043) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:138810
+
+I (140183) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (140273) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (140283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (140493) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:139260
+
+I (140613) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638122
+▒▒-▒K5253t4W (140803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (140943) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:139710
+
+I (141203) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (141393) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:140160
+
+I (141653) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638124
+▒▒,▒K52f▒▒▒▒-▒K5253▒▒I (141773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (141803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (141863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:140632
+
+I (142223) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (142283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (142323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:141090
+
+I (142673) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638125
+▒▒-▒K5253▒▒E (142773) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:141540
+
+W (142803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (143223) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:141990
+
+I (143243) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (143263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (143673) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:142440
+
+I (143683) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638126
+▒▒-▒K5253d$I (143773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (143803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (144123) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:142890
+
+I (144263) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (144283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (144573) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:143340
+
+I (144713) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638127
+▒▒-▒K5253▒▒W (144803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (145023) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:143790
+
+I (145283) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (145473) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:144240
+
+I (145743) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638128
+▒▒-▒K5253l,I (145773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (145803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (145923) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:144690
+
+I (146273) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (146283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (146303) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (146373) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:145140
+
+▒▒,▒K52f▒▒▒▒-▒K5253▒▒I (146793) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638129
+W (146803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (146863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:145632
+
+E (147323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:146090
+
+I (147323) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253@I (147773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (147783) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:146551
+
+W (147803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (147853) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638130
+E (148243) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:147010
+
+W (148283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (148343) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (148693) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:147460
+
+▒▒-▒K5253▒▒W (148803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (148913) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638131
+E (149143) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:147910
+
+I (149263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (149363) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (149593) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:148360
+
+▒▒-▒K5253▒▒I (149773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (149803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (149953) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638132
+E (150043) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:148810
+
+W (150283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (150393) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (150493) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:149260
+
+I (150673) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (150673) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (150673) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 37.099998C
+I (150683) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+▒▒-▒K5253DW (150803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (150943) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:149710
+
+I (150973) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638133
+E (151393) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:150160
+
+I (151413) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,▒K52feA▒▒-▒K5253L
+I (151773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (151803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (151863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:150632
+
+I (152033) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638134
+I (152273) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (152283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (152323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:151090
+
+I (152353) EF-I: [mesh_idea_exec_fun:1172]******* mesh pair recover timecount ********
+E (152353) EF-E: [nvs_read_str_blob:70]nvs_get_str router_ssid
+
+I (152353) EF-I: [mesh_message_is_ready:1116]mesh_id_ret[-1] mesh_type_ret[-1] router_ssid_ret[-1] router_bssid_ret[-1] router_password_ret[0]
+I (152433) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253E (152773) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:151540
+
+W (152803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (153083) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638135
+E (153223) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:151990
+
+I (153453) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (153673) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:152440
+
+▒▒-▒K5253▒▒I (153773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (153803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (154123) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:152890
+
+I (154123) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638136
+W (154283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (154473) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (154573) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:153340
+
+▒▒-▒K5253▒▒W (154803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (155023) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:153790
+
+I (155183) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638137
+I (155263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (155473) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:154240
+
+I (155493) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253\I (155773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (155803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (155923) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:154690
+
+I (156203) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638138
+W (156283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (156373) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:155140
+
+I (156513) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,▒K52f▒▒▒▒-▒K5253▒▒W (156803) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (156863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:155632
+
+I (157263) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638139
+E (157323) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:156090
+
+I (157533) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253PI (157773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (157783) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:156551
+
+I (157783) EF-I: [update_ems_energy_history_data:635]start time sec[1748638080]
+I (157793) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (157813) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (157823) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (157833) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (157853) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (157863) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (157873) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (157883) EF-I: [update_ems_energy_history_data:650]cumulative_energy:9240  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:10857
+I (157903) EF-I: [update_ems_energy_history_data:650]cumulative_energy:9240  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:10857
+W (157913) EF-W: [cumulative_ems_task:823]realtime_energy_data
+W (157933) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (158243) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:157010
+
+I (158273) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (158283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (158303) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638140
+I (158553) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (158693) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:157460
+
+▒▒-▒K5253▒▒W (158933) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (159143) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:157910
+
+I (159323) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638141
+I (159573) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (159593) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:158360
+
+▒▒-▒K5253▒▒I (159773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (159933) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (160043) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:158810
+
+W (160283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (160343) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638142
+E (160493) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:159260
+
+I (160603) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253TW (160933) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (160943) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:159710
+
+I (161263) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (161363) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638143
+E (161393) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:160160
+
+I (161623) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,▒K52f▒▒▒-▒K5253▒I (161773) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (161873) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:160642
+
+W (161933) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+W (162283) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (162333) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:161100
+
+I (162373) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638144
+I (162643) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253▒E (162853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:161558
+
+W (163003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (163303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:162008
+
+I (163443) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638145
+I (163663) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (163753) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:162458
+
+▒▒-▒K5253{PuTTYI (163843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (164003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (164203) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:162908
+
+I (164343) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (164343) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (164473) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638146
+E (164653) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:163358
+
+I (164683) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253▒W (165003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (165103) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:163809
+
+I (165523) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638147
+E (165553) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:164258
+
+I (165703) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (165713) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (165713) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (165713) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 37.099998C
+I (165723) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+sI (165843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (166003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (166003) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:164709
+
+W (166353) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (166463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:165168
+
+I (166573) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638148
+I (166723) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,▒K52f▒▒▒-▒K5253▒E (166943) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:165650
+
+W (167003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (167343) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (167403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:166108
+
+I (167603) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638149
+I (167743) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253▒I (167843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (167853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:166559
+
+W (168003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (168313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:167018
+
+W (168343) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (168613) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638150
+E (168763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:167468
+
+I (168763) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253cW (169003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (169213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:167918
+
+I (169633) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638151
+E (169663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:168368
+
+I (169783) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253gI (169843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (170003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (170113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:168818
+
+I (170353) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (170353) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (170563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:169268
+
+I (170683) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638153
+I (170813) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-▒K5253▒W (171003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (171013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:169719
+
+E (171463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:170168
+
+I (171723) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638154
+▒▒,▒K52f▒▒▒-▒K5253▒I (171843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (171853) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (171943) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:170650
+
+W (172003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+W (172363) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (172403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:171108
+
+I (172763) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638155
+▒▒-▒K5253▒E (172853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:171559
+
+I (172853) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (173003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (173303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:172008
+
+I (173353) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (173753) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:172458
+
+I (173773) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638156
+▒▒-▒K5253kI (173843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (173873) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (174003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (174203) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:172908
+
+W (174373) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (174653) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:173358
+
+I (174783) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638157
+▒▒-▒K5253▒I (174893) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (175003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (175103) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:173809
+
+E (175553) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:174258
+
+▒▒-▒K5253=CI (175843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (175853) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638158
+I (175913) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (176003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (176003) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:174709
+
+I (176363) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (176373) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (176463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:175169
+
+▒▒,▒K52f▒ɪ▒-▒K5253ĄI (176873) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638159
+E (176943) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:175650
+
+I (176943) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (177003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (177403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:176108
+
+▒▒-▒K52531OI (177843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (177853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:176559
+
+I (177913) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638160
+I (177953) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (178003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (178313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:177018
+
+W (178373) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (178763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:177468
+
+▒▒-▒K5253̌I (178923) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638161
+I (178973) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (179003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (179213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:177918
+
+I (179363) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (179663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:178368
+
+▒▒-▒K5253ȈI (179843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (179963) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638162
+I (179993) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (180003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (180113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:178818
+
+W (180383) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (180563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:179269
+
+I (180733) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (180733) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (180733) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 36.099998C
+I (180743) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+▒▒-▒K52535KI (180983) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638163
+W (181003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (181013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:179719
+
+I (181023) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (181463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:180169
+
+▒▒,▒K52f▒Ѫ▒-▒K5253ܜI (181843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (181943) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:180650
+
+W (182003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (182003) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638164
+I (182043) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (182083) EF-W: [realtime_trans_energy_data_by_mqtt:256]dev energy data type[RealTime], seq[65535], type_count[9]
+W (182083) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[1]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (182103) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[2]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (182123) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[3]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (182153) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[4]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (182173) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[7]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (182193) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[8]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (182223) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[16]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 0 <21> 0 <22> 0 <23> 0
+W (182243) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[17]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 3 <21> 0 <22> 0 <23> 0
+W (182273) EF-W: [realtime_trans_energy_data_by_mqtt:265]time[2025-5-30 0:0], watth_type[18]
+energy data: <0> 0 <1> 0 <2> 0 <3> 0 <4> 0 <5> 0 <6> 0 <7> 0 <8> 0 <9> 0 <10> 0 <11> 0 <12> 0 <13> 0 <14> 0 <15> 0 <16> 0 <17> 0 <18> 0 <19> 0 <20> 3 <21> 0 <22> 0 <23> 0
+I (182373) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (182383) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (182403) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:181109
+
+I (182433) EF-I: [mesh_idea_exec_fun:1172]******* mesh pair recover timecount ********
+E (182433) EF-E: [nvs_read_str_blob:70]nvs_get_str router_ssid
+
+I (182433) EF-I: [mesh_message_is_ready:1116]mesh_id_ret[-1] mesh_type_ret[-1] router_ssid_ret[-1] router_bssid_ret[-1] router_password_ret[0]
+▒▒-▒K5253ؘE (182853) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:181559
+
+W (183003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (183023) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638165
+I (183063) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (183303) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:182008
+
+E (183753) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:182458
+
+▒▒-▒K5253%[I (183843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (184003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (184073) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638166
+I (184083) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (184203) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:182909
+
+W (184393) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (184653) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:183358
+
+▒▒-▒K5253АW (185003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (185103) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:183809
+
+I (185103) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (185103) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638167
+I (185373) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (185553) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:184258
+
+▒▒-▒K5253-SI (185843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (186003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (186003) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:184709
+
+I (186123) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (186123) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638168
+W (186393) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (186463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:185168
+
+▒▒,▒K52f▒٪▒-▒K5253ԔE (186953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:185659
+
+W (187003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (187143) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (187163) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638169
+E (187413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:186118
+
+▒▒-▒K5253▒▒I (187843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (187863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:186569
+
+W (188003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (188163) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (188203) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638170
+E (188313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:187018
+
+I (188373) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (188393) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (188763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:187469
+
+▒▒-▒K5253}W (189003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (189183) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (189213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:187918
+
+I (189243) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638171
+E (189663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:188369
+
+▒▒-▒K5253yI (189843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (190003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (190113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:188818
+
+I (190203) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (190283) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638172
+W (190403) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (190563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:189268
+
+▒▒-▒K5253▒▒W (191003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (191013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:189719
+
+I (191233) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (191293) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638173
+I (191383) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (191463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:190169
+
+▒▒,▒K52f▒▒▒▒-▒K5253▒▒I (191843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (191953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:190659
+
+W (192003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (192253) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (192333) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638174
+E (192413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:191118
+
+W (192413) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+▒▒-▒K5253▒▒E (192863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:191568
+
+W (193003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (193273) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (193313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:192018
+
+I (193363) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638175
+E (193763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:192469
+
+▒▒-▒K5253u
+          I (193843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (194003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (194213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:192918
+
+I (194293) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (194373) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638176
+I (194383) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (194423) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (194663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:193368
+
+▒▒-▒K5253aW (195003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (195113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:193818
+
+I (195313) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (195383) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638177
+E (195563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:194269
+
+I (195773) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (195773) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (195773) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 37.099998C
+I (195783) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+▒▒-▒K5253▒▒I (195843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (196003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (196013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:194718
+
+I (196333) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (196393) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638178
+W (196423) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (196463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:195168
+
+▒▒,▒K52fLV▒▒-▒K5253eE (196953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:195659
+
+W (197003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (197353) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (197393) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (197413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:196118
+
+I (197413) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638179
+▒▒-▒K5253▒▒I (197843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (197863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:196569
+
+W (198003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (198313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:197018
+
+I (198373) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (198433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (198433) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638180
+E (198763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:197469
+
+▒▒-▒K5253mW (199003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (199213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:197918
+
+I (199393) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (199453) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638181
+E (199663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:198368
+
+▒▒-▒K5253iI (199843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (200003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (200113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:198818
+
+I (200393) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (200413) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (200433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (200473) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638182
+E (200563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:199268
+
+▒▒-▒K5253▒▒W (201003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (201013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:199719
+
+I (201443) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (201463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:200169
+
+I (201483) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638183
+▒▒,▒K52f▒▒▒▒-▒K5253▒▒I (201843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (201953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:200659
+
+W (202003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (202413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:201118
+
+W (202433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (202463) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (202493) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638184
+▒▒-▒K5253▒▒E (202863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:201568
+
+W (203003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (203313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:202018
+
+I (203403) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (203483) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (203523) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638185
+E (203763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:202469
+
+▒▒-▒K5253E;I (203843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (204003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (204213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:202918
+
+W (204433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (204503) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (204543) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638186
+E (204663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:203368
+
+▒▒-▒K5253▒▒W (205003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (205113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:203818
+
+I (205523) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (205563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:204268
+
+I (205563) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638187
+▒▒-▒K5253M3I (205843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (206003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (206013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:204718
+
+I (206413) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (206433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (206463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:205168
+
+I (206543) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (206583) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638188
+▒▒,▒K52f▒▒▒▒-▒K5253▒▒E (206953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:205659
+
+W (207003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (207413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:206118
+
+I (207563) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (207633) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638189
+▒▒-▒K5253▒▒I (207843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (207873) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:206579
+
+W (208003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (208333) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:207039
+
+W (208433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (208583) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (208643) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638191
+E (208783) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:207488
+
+▒▒-▒K5253]#W (209003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (209233) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:207939
+
+I (209413) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+I (209603) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (209663) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638192
+E (209683) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:208389
+
+▒▒-▒K5253Y'I (209843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (210003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (210133) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:208839
+
+W (210433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (210583) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:209288
+
+I (210623) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (210683) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638193
+I (210803) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (210803) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (210803) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 37.099998C
+I (210813) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+▒▒-▒K5253▒▒W (211003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (211033) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:209739
+
+E (211483) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:210189
+
+I (211653) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (211723) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638194
+▒▒,▒K52f▒▒▒▒-▒K5253▒▒I (211843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (211953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:210659
+
+W (212003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (212413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:211118
+
+I (212413) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (212433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+I (212473) EF-I: [mesh_idea_exec_fun:1172]******* mesh pair recover timecount ********
+E (212473) EF-E: [nvs_read_str_blob:70]nvs_get_str router_ssid
+
+I (212473) EF-I: [mesh_message_is_ready:1116]mesh_id_ret[-1] mesh_type_ret[-1] router_ssid_ret[-1] router_bssid_ret[-1] router_password_ret[0]
+I (212673) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (212753) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638195
+▒▒-▒K5253▒▒E (212863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:211568
+
+W (213003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (213313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:212018
+
+I (213693) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (213763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:212469
+
+I (213773) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638196
+▒▒-▒K5253U+I (213843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (214003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (214213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:212918
+
+W (214433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (214663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:213368
+
+I (214713) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (214793) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638197
+▒▒-K5253▒W (215003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (215113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:213818
+
+I (215423) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (215563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:214268
+
+I (215733) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-K5253▒I (215843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (215853) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638198
+W (216003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (216013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:214718
+
+W (216433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (216463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:215168
+
+I (216753) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒,K52f+▒▒▒-K5253▒I (216893) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638199
+E (216953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:215659
+
+W (217003) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (217413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:216118
+
+I (217773) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+I (217843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (217863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:216569
+
+W (217863) EF-W: [update_ems_power_history_data:579]time:1748638200 history_power_count:1 power:0 cumu_times:476
+W (217873) EF-W: [update_ems_power_history_data:579]time:1748638200 history_power_count:1 power:0 cumu_times:476
+W (217883) EF-W: [update_ems_power_history_data:579]time:1748638200 history_power_count:1 power:0 cumu_times:476
+W (217893) EF-W: [update_ems_power_history_data:579]time:1748638200 history_power_count:1 power:0 cumu_times:476
+W (217903) EF-W: [update_ems_power_history_data:579]time:1748638200 history_power_count:1 power:0 cumu_times:476
+W (217913) EF-W: [update_ems_power_history_data:579]time:1748638200 history_power_count:1 power:0 cumu_times:476
+W (217923) EF-W: [update_ems_power_history_data:579]time:1748638200 history_power_count:1 power:69 cumu_times:476
+W (217933) EF-W: [update_ems_power_history_data:579]time:1748638200 history_power_count:1 power:69 cumu_times:476
+I (217943) EF-I: [update_ems_energy_history_data:635]start time sec[1748638140]
+I (217953) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (217963) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (217983) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (217993) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (218003) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (218023) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (218033) EF-I: [update_ems_energy_history_data:650]cumulative_energy:0  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:0
+I (218043) EF-I: [update_ems_energy_history_data:650]cumulative_energy:9240  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:15057
+I (218063) EF-I: [update_ems_energy_history_data:650]cumulative_energy:9240  energy_cumu_times:132  interval_time:60 tm_hour:20 total_energy:15057
+W (218073) EF-W: [cumulative_ems_task:823]realtime_energy_data
+I (218083) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638200
+W (218093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (218313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:217018
+
+I (218423) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (218433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (218763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:217468
+
+I (218793) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-K5253
+        ▒PuTTYW (219093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (219113) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638201
+E (219213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:217918
+
+E (219663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:218369
+
+I (219813) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒▒-K5253▒I (219843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+W (220093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (220113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:218818
+
+I (220113) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638202
+W (220433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (220563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:219268
+
+▒▒-K5253▒       I (220833) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (221013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:219718
+
+W (221093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (221123) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638203
+I (221423) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+E (221463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:220169
+
+▒▒K52f3▒▒▒-     K5253▒I (221843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (221853) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (221953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:220659
+
+W (222093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (222163) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638204
+E (222413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:221119
+
+W (222433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+▒▒-
+   K5253▒E (222863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:221568
+
+I (222883) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (223093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (223183) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638205
+E (223313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:222018
+
+E (223763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:222468
+
+▒▒-
+   K5253▒I (223853) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (223903) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (224093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (224213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:222918
+
+I (224223) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638206
+I (224423) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (224433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (224663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:223368
+
+▒▒-
+K5253▒I (224923) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (225093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (225113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:223818
+
+I (225233) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638207
+E (225563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:224268
+
+K5253▒I (225843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (225853) EF-I: [protobuf_psdr_heartbeat2_handle:1107]protobuf_psdr_heartbeat2_action[len:41]
+W (225853) EF-W: [ef_mesh_get_sta_ip_addr:905]get sta ip fail, sta_ip_addr = 0
+I (225863) EF-I: [ef_esp32_tempsensor_get:156]Temperature out celsius 37.099998C
+I (225873) EF-I: [protobuf_psdr_heartbeat3_handle:1254]protobuf_psdr_heartbeat3_action[len:4]
+I (225943) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+E (226013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:224718
+
+W (226093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (226263) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638208
+W (226433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (226463) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:225168
+
+▒▒,K52f;▒▒▒-K5253▒E (226953) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:225659
+
+I (226963) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (227093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+I (227273) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638209
+E (227413) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:226118
+
+I (227423) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+▒▒-K5253▒=I (227843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+E (227863) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:226569
+
+I (227983) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (228093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (228313) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:227018
+
+I (228313) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638210
+W (228433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (228763) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:227468
+
+▒▒-K5253:▒I (229003) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (229093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (229213) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:227918
+
+I (229333) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638211
+E (229663) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:228369
+
+▒▒-K5253>▒I (229843) EF-I: [iot_heartbeat_handle_task:136]heartbeat2_frequency[0],heartbeat2_trans_flag[0],rand_val[0]
+I (230023) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+W (230093) EF-W: [comm_logic_task:155]---> device current network stat, wifi:0, mqtt:0, x-lan status:0
+E (230113) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:228818
+
+I (230373) EF-I: [bsp_rtc_get_cnt:44]now time : 1748638212
+I (230433) EF-I: [main_task_wdt_feed_task:94]feed watch dog for main task
+W (230433) EF-W: [memoryMonitoringTasks:69]cur heap:95.296875K inter heap:87.707031K min heap:89.566406K
+E (230563) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:229268
+
+▒▒-K5253▒9E (231013) EF-E: [inv_logic_main_task:658]interval_ms - inverter_obj.dynamic_watts_update_ms:229718
+
+I (231043) EF-I: [protobuf_psdr_heartbeat_handle:916]data_len :23
+▒
